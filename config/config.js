@@ -1,6 +1,6 @@
 module.exports = {
     nodePort: process.env.port,
-    messageTerminal: 'Backend FOR BOOKSTAR',
+    messageTerminal: 'Backend for StarBook Technology',
     dbUserMS: 'sa' ,
     dbPasswordMS: 'QaZX+A7SPiKN',
     dbServerMS: '198.38.89.221',

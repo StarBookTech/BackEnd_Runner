@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
         {
-            name: 'LUDENT API',
+            name: 'RUNNER API',
             script: 'index.js',
             watch: true,
             instances: 1,
