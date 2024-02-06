@@ -5,7 +5,7 @@ module.exports = {
     dbPasswordMS: 'QaZX+A7SPiKN',
     dbServerMS: '198.38.89.221',
     dbPortMS: '1433',
-    dbDatabaseNameMS: 'clinic_fer',
+    dbDatabaseNameMS: 'runner_db',
     dbMongoStringConnection: process.env.dbMongoStringConnection,
     dbMongoUser: process.env.dbMongoUser,
     dbMongoPassword: process.env.dbMongoPassword,
